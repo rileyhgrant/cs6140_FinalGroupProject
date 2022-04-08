@@ -1,2 +1,2 @@
-# cs6650_FinalGroupProject
-The final group project for cs6650 - Machine Learning
+# cs6140_FinalGroupProject
+The final group project for cs6140 - Machine Learning
