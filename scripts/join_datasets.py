@@ -81,6 +81,7 @@ intermed_df = clean_cig_df_only_2012.join( clean_alc_df_only_2012.set_index( 'co
 final_df = intermed_df.join( curr_join_df.set_index( 'county_state'), on="county_state");
 # final_df = clean_cig_df.join( clean_alc_df.set_index( 'county_state' ), on="county_state" )
 # print(final_df.head())
+final_df.dropna(inplace=True)
 
 final_df.to_csv('data/data_full.csv', index = False)
 

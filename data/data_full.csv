@@ -66,29 +66,6 @@ county_state,cig_total_2012,cig_daily_2012,alc_any_2012,alc_heavy_2012,alc_binge
 "Washington, AL",25.16,18.74,31.6,4.5,9.4,1273.6
 "Wilcox, AL",25.72,17.19,35.8,6.7,14.2,1630.8
 "Winston, AL",28.17,21.6,30.4,4.7,10.8,1320.5
-"Aleutians East, AK",24.63,15.64,,,,
-"Aleutians West, AK",26.25,17.7,,,,
-"Anchorage, AK",19.14,13.15,,,,
-"Bethel, AK",33.11,22.13,,,,
-"Bristol Bay, AK",27.69,19.6,,,,
-"Denali Borough/Yukon-Koyukuk, AK",31.85,21.62,,,,
-"Dillingham, AK",31.35,20.97,,,,
-"Fairbanks North Star, AK",20.73,14.8,,,,
-"Haines, AK",18.13,11.61,,,,
-"Juneau City and, AK",18.76,12.31,,,,
-"Kenai Peninsula, AK",23.09,16.62,,,,
-"Kodiak Island, AK",22.44,15.21,,,,
-"Lake and Peninsula, AK",30.07,19.55,,,,
-"Matanuska-Susitna, AK",23.23,17.12,,,,
-"Nome, AK",36.89,25.48,,,,
-"North Slope, AK",35.39,25.53,,,,
-"Northwest Arctic, AK",41.18,29.75,,,,
-"Sitka City and, AK",18.82,12.78,,,,
-"Hoonah-Angoon Census Area/Skagway Municipality/Yakutat City and, AK",21.74,13.94,,,,
-"Southeast Fairbanks, AK",22.56,16.35,,,,
-"Valdez-Cordova, AK",22.11,15.48,,,,
-"Wade Hampton, AK",38.62,25.14,,,,
-"Ketchikan Gateway Borough/Petersburg Census Area/Prince of Wales-Hyder Census Area/Wrangell City and, AK",22.69,15.31,,,,
 "Apache, AZ",26.8,17.83,36.2,7.2,17.8,880.0
 "Cochise, AZ",20.99,14.25,51.8,8.1,17.9,1006.0
 "Coconino, AZ",21.54,13.92,54.9,8.5,17.8,783.3
@@ -242,7 +219,6 @@ county_state,cig_total_2012,cig_daily_2012,alc_any_2012,alc_heavy_2012,alc_binge
 "Archuleta, CO",18.97,12.69,63.8,11.7,21.4,798.3
 "Baca, CO",21.97,15.87,53.6,7.8,15.9,864.4
 "Bent, CO",27.5,19.72,52.7,8.1,19.0,1212.3
-"Adams County/Boulder County/Broomfield County/Jefferson County/Weld, CO",18.68,12.33,,,,
 "Chaffee, CO",21.55,14.59,65.5,11.6,20.2,622.3
 "Cheyenne, CO",20.97,15.06,60.4,9.6,22.1,785.2
 "Clear Creek, CO",18.78,12.51,72.8,16.2,26.1,725.9
@@ -308,7 +284,6 @@ county_state,cig_total_2012,cig_daily_2012,alc_any_2012,alc_heavy_2012,alc_binge
 "Kent, DE",24.44,18.4,52.1,7.4,17.5,1079.0
 "New Castle, DE",19.85,14.16,60.7,9.7,20.9,945.4
 "Sussex, DE",24.56,18.61,56.5,9.5,20.9,1045.6
-"District of Columbia, DC",19.63,11.21,,,,
 "Alachua, FL",16.72,11.16,60.2,10.1,17.3,754.9
 "Baker, FL",28.03,21.74,42.1,6.8,14.6,1101.1
 "Bay, FL",24.22,18.55,53.5,10.3,19.6,1112.3
@@ -538,7 +513,6 @@ county_state,cig_total_2012,cig_daily_2012,alc_any_2012,alc_heavy_2012,alc_binge
 "Hawaii, HI",19.85,13.98,55.7,11.7,20.8,834.0
 "Honolulu, HI",16.1,11.23,51.8,9.2,20.3,718.0
 "Kauai, HI",19.09,13.38,56.0,11.5,19.7,748.3
-"Kalawao County/Maui, HI",16.73,11.27,,,,
 "Ada, ID",16.62,12.43,59.6,8.9,17.9,1004.3
 "Adams, ID",22.65,16.79,63.5,13.9,23.2,755.3
 "Bannock, ID",21.19,15.53,38.0,6.7,14.5,1195.8
@@ -1183,8 +1157,6 @@ county_state,cig_total_2012,cig_daily_2012,alc_any_2012,alc_heavy_2012,alc_binge
 "York, ME",19.98,14.62,66.0,10.8,22.1,870.5
 "Allegany, MD",24.2,17.77,50.6,8.5,18.2,1254.7
 "Anne Arundel, MD",19.1,14.05,62.7,7.7,20.3,1024.5
-"Baltimore, MD",19.25,13.53,60.6,8.1,19.5,
-"Baltimore, MD",19.25,13.53,60.6,8.1,19.5,
 "Calvert, MD",20.23,15.3,61.8,8.9,19.9,1119.8
 "Caroline, MD",23.91,17.79,48.5,6.7,17.2,1162.7
 "Carroll, MD",17.92,13.06,62.3,8.0,19.8,1109.7
@@ -1205,8 +1177,6 @@ county_state,cig_total_2012,cig_daily_2012,alc_any_2012,alc_heavy_2012,alc_binge
 "Washington, MD",21.48,15.49,51.5,6.6,16.7,1148.4
 "Wicomico, MD",21.34,15.2,54.3,6.8,17.4,1440.9
 "Worcester, MD",20.44,15.16,64.0,11.6,23.2,1154.0
-"Baltimore, MD",26.5,18.89,60.6,8.1,19.5,
-"Baltimore, MD",26.5,18.89,60.6,8.1,19.5,
 "Barnstable, MA",19.81,14.22,72.2,11.4,22.5,888.7
 "Berkshire, MA",21.32,15.61,67.8,12.2,23.5,950.1
 "Bristol, MA",24.15,18.47,62.9,9.0,20.5,916.4
@@ -1568,8 +1538,6 @@ county_state,cig_total_2012,cig_daily_2012,alc_any_2012,alc_heavy_2012,alc_binge
 "St. Clair, MO",28.33,22.25,39.5,7.3,16.3,1191.0
 "Ste. Genevieve, MO",27.68,22.25,49.7,10.0,22.6,1287.0
 "St. Francois, MO",29.88,23.55,41.6,7.6,18.1,1426.0
-"St. Louis, MO",20.92,15.13,63.2,10.5,23.2,
-"St. Louis, MO",20.92,15.13,63.2,10.5,23.2,
 "Saline, MO",27.76,21.45,48.7,7.7,18.5,1215.8
 "Schuyler, MO",29.43,23.7,44.9,8.6,19.3,1027.5
 "Scotland, MO",25.22,19.69,47.0,8.8,19.1,1104.7
@@ -1588,8 +1556,6 @@ county_state,cig_total_2012,cig_daily_2012,alc_any_2012,alc_heavy_2012,alc_binge
 "Webster, MO",27.29,22.08,41.5,6.9,14.8,1306.0
 "Worth, MO",24.39,19.08,48.5,7.2,16.1,1231.2
 "Wright, MO",28.55,23.76,38.5,7.0,15.2,1688.4
-"St. Louis, MO",28.75,20.51,63.2,10.5,23.2,
-"St. Louis, MO",28.75,20.51,63.2,10.5,23.2,
 "Beaverhead, MT",19.28,13.76,61.0,13.2,25.4,1058.5
 "Big Horn, MT",30.99,20.97,46.1,7.5,20.5,1061.0
 "Blaine, MT",27.65,18.77,55.5,10.0,26.8,1238.0
@@ -1755,11 +1721,9 @@ county_state,cig_total_2012,cig_daily_2012,alc_any_2012,alc_heavy_2012,alc_binge
 "Storey, NV",25.14,18.27,70.6,18.6,27.4,1088.4
 "Washoe, NV",21.15,14.28,63.1,11.6,21.0,1212.2
 "White Pine, NV",27.05,20.39,46.7,9.4,19.7,1089.3
-"Carson, NV",24.98,18.41,,,,
 "Belknap, NH",20.2,15.54,65.8,10.5,20.5,1043.8
 "Carroll, NH",20.7,15.32,67.2,11.5,20.6,879.4
 "Cheshire, NH",20.52,15.02,65.9,11.0,20.4,964.3
-"Coos, NH",23.37,18.65,64.5,10.9,22.3,
 "Grafton, NH",16.73,12.3,68.4,11.4,20.2,923.0
 "Hillsborough, NH",18.6,14.26,66.8,8.6,18.7,975.5
 "Merrimack, NH",17.76,13.46,68.0,10.1,19.0,978.5
@@ -1794,7 +1758,6 @@ county_state,cig_total_2012,cig_daily_2012,alc_any_2012,alc_heavy_2012,alc_binge
 "Colfax, NM",18.78,12.22,49.3,7.1,16.9,793.3
 "Curry, NM",21.64,14.79,41.0,5.8,14.5,1255.3
 "De Baca, NM",20.85,13.96,33.3,4.3,12.4,1128.6
-"Dona Ana, NM",18.36,11.73,48.0,7.4,19.0,
 "Eddy, NM",23.88,18.01,41.4,6.4,15.4,1318.3
 "Grant, NM",20.13,12.58,51.2,9.2,20.1,993.2
 "Guadalupe, NM",21.07,12.69,44.0,6.9,17.5,1074.2
@@ -2409,7 +2372,6 @@ county_state,cig_total_2012,cig_daily_2012,alc_any_2012,alc_heavy_2012,alc_binge
 "Potter, SD",21.62,15.92,57.0,9.3,21.2,876.6
 "Roberts, SD",26.81,18.75,47.6,10.5,21.1,978.3
 "Sanborn, SD",21.26,16.04,66.1,15.4,32.8,993.3
-"Shannon, SD",36.0,23.68,28.6,17.5,22.8,
 "Spink, SD",20.9,15.35,60.4,10.5,26.0,902.6
 "Stanley, SD",22.05,16.3,69.6,13.6,30.6,632.0
 "Sully, SD",18.72,13.39,65.6,11.8,27.8,759.3
@@ -2665,7 +2627,6 @@ county_state,cig_total_2012,cig_daily_2012,alc_any_2012,alc_heavy_2012,alc_binge
 "Lipscomb, TX",19.27,13.16,45.1,5.0,15.6,1340.3
 "Live Oak, TX",21.2,14.28,44.3,6.9,17.7,1121.6
 "Llano, TX",24.21,17.88,56.3,9.0,20.3,792.4
-"Loving, TX",27.19,20.62,55.8,16.9,35.5,
 "Lubbock, TX",20.36,13.66,49.2,6.8,17.1,1295.2
 "Lynn, TX",20.39,13.67,40.0,4.2,14.2,1243.7
 "McCulloch, TX",22.0,15.61,48.2,6.7,16.6,1363.4
@@ -2819,9 +2780,7 @@ county_state,cig_total_2012,cig_daily_2012,alc_any_2012,alc_heavy_2012,alc_binge
 "Amherst, VA",25.49,19.58,45.3,6.3,13.9,1056.1
 "Appomattox, VA",24.46,18.44,44.7,6.5,13.7,1156.7
 "Arlington, VA",10.96,6.39,70.0,8.4,20.1,610.5
-"Augusta County/Waynesboro, VA",24.46,18.88,,,,
 "Bath, VA",25.26,19.37,50.7,11.0,18.2,1015.1
-"Bedford County/Bedford, VA",23.48,18.12,,,,
 "Bland, VA",26.76,20.65,35.9,5.6,12.2,1239.2
 "Botetourt, VA",22.11,16.79,46.5,6.0,13.5,1054.7
 "Brunswick, VA",28.18,19.48,37.3,5.2,11.7,1102.8
@@ -2840,11 +2799,9 @@ county_state,cig_total_2012,cig_daily_2012,alc_any_2012,alc_heavy_2012,alc_binge
 "Dickenson, VA",30.34,22.79,25.7,4.3,11.1,1302.5
 "Dinwiddie, VA",25.79,19.42,47.1,6.7,14.6,944.1
 "Essex, VA",24.66,17.7,45.3,5.7,13.2,1141.5
-"Fairfax County/Fairfax, VA",12.85,7.59,,,,
 "Fauquier, VA",19.15,13.93,58.8,7.4,15.8,810.0
 "Floyd, VA",23.33,17.73,40.7,5.7,12.6,940.0
 "Fluvanna, VA",20.95,15.27,56.1,7.3,15.6,875.8
-"Franklin, VA",23.79,17.69,43.6,5.7,12.6,
 "Frederick, VA",22.05,16.39,53.3,6.2,14.9,1046.7
 "Giles, VA",26.16,20.4,38.9,5.8,12.9,1165.7
 "Gloucester, VA",22.29,17.0,54.5,7.7,15.8,1016.8
@@ -2884,20 +2841,14 @@ county_state,cig_total_2012,cig_daily_2012,alc_any_2012,alc_heavy_2012,alc_binge
 "Powhatan, VA",21.76,15.65,51.6,6.8,14.9,945.1
 "Prince Edward, VA",23.53,16.41,46.6,6.7,14.5,1128.8
 "Prince George, VA",23.25,16.7,47.1,5.7,13.1,839.5
-"Prince William County/Manassas Park, VA",18.34,12.41,,,,
 "Pulaski, VA",26.42,20.65,42.0,5.6,13.1,1175.1
 "Rappahannock, VA",20.11,14.6,51.7,6.7,14.1,810.0
-"Richmond, VA",27.69,20.13,39.1,5.5,12.2,
-"Richmond, VA",27.69,20.13,39.1,5.5,12.2,
-"Roanoke, VA",20.76,15.44,52.8,6.1,14.5,
-"Roanoke, VA",20.76,15.44,52.8,6.1,14.5,
 "Rockbridge, VA",23.51,17.63,47.3,6.7,14.3,850.2
 "Rockingham, VA",21.72,16.69,49.3,6.8,14.4,958.2
 "Russell, VA",28.04,21.46,26.4,3.9,10.2,1210.6
 "Scott, VA",28.0,21.4,29.0,4.6,11.1,1117.6
 "Shenandoah, VA",24.46,19.1,51.6,8.0,16.0,980.4
 "Smyth, VA",26.43,20.74,33.2,5.0,12.0,1247.5
-"Southampton County/Franklin, VA",25.57,18.64,,,,
 "Spotsylvania, VA",18.74,13.61,54.5,6.5,14.5,951.9
 "Stafford, VA",16.92,12.13,60.0,6.5,15.2,1032.4
 "Surry, VA",23.12,16.28,41.8,5.5,12.2,955.9
@@ -2909,42 +2860,6 @@ county_state,cig_total_2012,cig_daily_2012,alc_any_2012,alc_heavy_2012,alc_binge
 "Wise, VA",29.46,22.81,27.8,4.5,11.2,1296.5
 "Wythe, VA",26.03,20.42,38.4,5.9,12.6,1267.6
 "York, VA",16.27,11.26,64.7,9.2,17.7,811.4
-"Alexandria, VA",13.63,8.18,,,,
-"Bristol, VA",29.07,23.26,,,,
-"Buena Vista, VA",31.65,25.5,,,,
-"Charlottesville, VA",19.76,12.69,,,,
-"Chesapeake, VA",20.35,14.29,,,,
-"Colonial Heights, VA",27.08,20.96,,,,
-"Covington, VA",30.17,24.47,,,,
-"Danville, VA",27.12,19.37,,,,
-"Emporia, VA",27.12,19.61,,,,
-"Falls Church, VA",10.02,5.39,,,,
-"Fredericksburg, VA",18.65,13.27,,,,
-"Galax, VA",26.4,20.75,,,,
-"Hampton, VA",22.63,14.97,,,,
-"Harrisonburg, VA",18.25,13.12,,,,
-"Hopewell, VA",29.96,23.0,,,,
-"Lexington, VA",18.08,12.37,,,,
-"Lynchburg, VA",21.96,16.34,,,,
-"Manassas, VA",21.37,14.65,,,,
-"Martinsville, VA",24.31,16.35,,,,
-"Newport News, VA",22.87,16.09,,,,
-"Norfolk, VA",22.71,15.07,,,,
-"Norton, VA",29.21,23.4,,,,
-"Petersburg, VA",28.57,19.76,,,,
-"Poquoson, VA",19.12,13.66,,,,
-"Portsmouth, VA",25.58,17.66,,,,
-"Radford, VA",21.5,16.05,,,,
-"Richmond, VA",22.35,14.88,39.1,5.5,12.2,
-"Richmond, VA",22.35,14.88,39.1,5.5,12.2,
-"Roanoke, VA",27.68,20.2,52.8,6.1,14.5,
-"Roanoke, VA",27.68,20.2,52.8,6.1,14.5,
-"Salem, VA",24.72,18.34,,,,
-"Staunton, VA",21.14,15.72,,,,
-"Suffolk, VA",22.1,15.72,,,,
-"Virginia Beach, VA",19.87,13.53,,,,
-"Williamsburg, VA",15.7,10.6,,,,
-"Winchester, VA",25.23,18.22,,,,
 "Adams, WA",16.67,11.39,42.4,5.7,15.0,975.4
 "Asotin, WA",25.17,19.14,56.5,9.7,17.7,1051.3
 "Benton, WA",17.86,12.91,57.4,8.0,17.2,880.5
